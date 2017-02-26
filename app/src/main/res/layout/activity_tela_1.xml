@@ -14,9 +14,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Yaeeeeeee"
-        android:id="@+id/textView"
-        tools:text="Teste" />
+        android:text="Yaeee"
+        android:id="@+id/textView" />
 
     <Button
         android:text="Button"
@@ -33,8 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button"
-        android:layout_toEndOf="@+id/textView"
         android:layout_marginStart="43dp"
-        android:layout_marginTop="69dp"
-        android:id="@+id/button2" />
+        android:layout_marginTop="84dp"
+        android:id="@+id/button4" />
 </RelativeLayout>
