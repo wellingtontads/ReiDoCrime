@@ -42,19 +42,37 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:text="Login"
         android:ems="10"
-        android:id="@+id/editText7"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/editText7"
+        android:id="@+id/editText8" />
+
+    <TextView
+        android:text="Senha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:text="Login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_above="@+id/editText8"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_marginBottom="38dp" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:text="Senha"
         android:ems="10"
-        android:layout_centerVertical="true"
-        android:layout_alignStart="@+id/editText7"
-        android:id="@+id/editText8" />
+        android:id="@+id/editText7"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:singleLine="false" />
 
 </RelativeLayout>
