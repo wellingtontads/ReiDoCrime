@@ -45,9 +45,7 @@
         android:text="Login"
         android:ems="10"
         android:id="@+id/editText7"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="112dp" />
+        android:layout_centerHorizontal="true" />
 
     <EditText
         android:layout_width="wrap_content"
