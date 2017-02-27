@@ -76,12 +76,4 @@
         android:layout_marginTop="154dp"
         android:id="@+id/cadastra_butto" />
 
-    <TextView
-        android:text="TextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/cadastra_butto"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="88dp"
-        android:id="@+id/Maryana" />
 </RelativeLayout>
