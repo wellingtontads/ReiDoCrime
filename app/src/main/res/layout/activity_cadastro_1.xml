@@ -60,5 +60,5 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="154dp"
-        android:id="@+id/cadastra_button" />
+        android:id="@+id/cadastra_butto" />
 </RelativeLayout>
