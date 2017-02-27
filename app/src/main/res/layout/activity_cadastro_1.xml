@@ -83,5 +83,5 @@
         android:layout_alignBottom="@+id/cadastra_butto"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="88dp"
-        android:id="@+id/Teste Maryana" />
+        android:id="@+id/Maryana" />
 </RelativeLayout>
