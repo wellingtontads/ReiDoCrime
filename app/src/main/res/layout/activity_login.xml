@@ -73,10 +73,11 @@
                 android:textStyle="bold" />
 
             <Button
-                android:text="Cadastro"
+                android:text="cadastro"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/cadastro_buton" />
+                android:id="@+id/cadastro_buton"
+                tools:ignore="HardcodedText" />
 
             <Button
                 android:text="Visitante"
